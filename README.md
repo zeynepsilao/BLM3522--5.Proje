@@ -28,4 +28,4 @@ Sistem, üç temel katmandan oluşmaktadır:
 pip install paho-mqtt streamlit pandas
 ```
 ----------------------------------------------
-### Video Link:
+### Video Link: https://drive.google.com/drive/u/0/folders/1WNYOpuxZn-Ga60_xAiZYIOVon6rZ9hwY
